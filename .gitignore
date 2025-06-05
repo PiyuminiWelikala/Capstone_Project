@@ -6,3 +6,5 @@ Research_paper_handling/Missing_articles_handling/missing_articles.txt
 Research_paper_handling/Zotero Files
 Approach_2/open_ai_secret_token.txt
 Approach_2/requirements.txt
+__pycache__
+chroma_db
