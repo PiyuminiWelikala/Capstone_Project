@@ -12,7 +12,7 @@ This project highlights how AI can streamline research processes and support hum
 
 ## Project Poster
 
-![Poster](image.png)
+![Poster](Documentation/Poster.png)
 
 ### Methodology
 
