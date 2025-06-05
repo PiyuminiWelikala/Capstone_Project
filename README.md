@@ -17,7 +17,7 @@ This project highlights how AI can streamline research processes and support hum
 ### Methodology
 
 1. Data Collection
-We retrieved a total of 808 full-text academic articles from EBSCOhost, PubMed, ProQuest, and Google Scholar using structured queries tailored to each database.
+We retrieved a total of 808 full-text academic articles from 4 academic databases using structured queries tailored to each database.
 
 2. Preprocessing
 Duplicates were removed, and texts were extracted from PDFs using PyPDF2. Cleaned documents were stored in ChromaDB, a vector database used for semantic retrieval.
